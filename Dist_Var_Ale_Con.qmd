@@ -18,7 +18,7 @@ library(plotly)
 
 $X\sim unif(a,b)$
 
-###Función de densidad
+### Función de densidad
 
 ```{r}
 #| code-fold: true
